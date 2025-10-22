@@ -1,0 +1,7 @@
+stocknet-env/
+__pycache__/
+*.csv
+*.ipynb_checkpoints
+*.h5
+out/
+data/
