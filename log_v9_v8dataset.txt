@@ -1,0 +1,3 @@
+
+=== StockNet v9 — CNN+WaveNet fusion, anti-leak strict ===
+✅ Feature 'vol_price_ratio' calculée (ratio volume/prix).
